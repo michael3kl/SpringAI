@@ -52,7 +52,9 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.appcompat)
-    
+    implementation("io.github.kexanie.library:MathView:0.0.6")
+    implementation("io.github.jeziellago:compose-markdown:0.3.4")
+
     // Network libraries
     implementation("com.android.volley:volley:1.2.1")
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
