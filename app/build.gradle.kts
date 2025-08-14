@@ -52,7 +52,8 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.appcompat)
-    implementation("io.github.kexanie.library:MathView:0.0.6")
+//    implementation("org.scilab.forge:jlatexmath:1.0.7")
+//    implementation("io.github.kexanie.library:MathView:0.0.6")
     implementation("io.github.jeziellago:compose-markdown:0.3.4")
 
     // Network libraries

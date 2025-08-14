@@ -22,7 +22,7 @@ import org.json.JSONObject
 
 class MainActivity : ComponentActivity() {
 
-    private val apiUrl = "http://10.0.2.2:8081/api/ai/ask"
+    private val apiUrl = "http://springai-michael3kl-dev.apps.rm1.0a51.p1.openshiftapps.com/api/ai/ask"
     private lateinit var requestQueue: RequestQueue
 
     override fun onCreate(savedInstanceState: Bundle?) {
